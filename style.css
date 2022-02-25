@@ -27,4 +27,22 @@
     height: 170.7px;
     width: auto;
 }
+
+.line-height{
+    line-height: 2rem;
+}
         
+
+.carousel-item{
+    height: 20rem;
+    background-color: #777;
+}
+
+.gallery-img{
+    width: 15rem;
+    height: 15rem;
+}
+
+.img-popup{
+    width:28rem ;
+}
